@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-7-funcoes-recursivas\aula-7-funcoes-recursivas\bin\Debug\aula-7-funcoes-recursivas.exe.config
+C:\Users\nicol\source\repos\aula-7-funcoes-recursivas\aula-7-funcoes-recursivas\bin\Debug\aula-7-funcoes-recursivas.exe
+C:\Users\nicol\source\repos\aula-7-funcoes-recursivas\aula-7-funcoes-recursivas\bin\Debug\aula-7-funcoes-recursivas.pdb
+C:\Users\nicol\source\repos\aula-7-funcoes-recursivas\aula-7-funcoes-recursivas\obj\Debug\aula-7-funcoes-recursivas.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-7-funcoes-recursivas\aula-7-funcoes-recursivas\obj\Debug\aula-7-funcoes-recursivas.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-7-funcoes-recursivas\aula-7-funcoes-recursivas\obj\Debug\aula-7-funcoes-recursivas.exe
+C:\Users\nicol\source\repos\aula-7-funcoes-recursivas\aula-7-funcoes-recursivas\obj\Debug\aula-7-funcoes-recursivas.pdb
